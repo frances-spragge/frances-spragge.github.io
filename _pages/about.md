@@ -7,22 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at [Ilan Davis lab](http://www.ilandavis.com/) at the Department of Biochemistry at the University of Oxford. I am under the supervision of Ilan Davis and Stephen Taylor and I am collaborating with Charlotte Deane head of the Department of Statistics at the University of Oxford.
+I am a DPhil student in the [Foster Lab](https://zoo-kfoster.zoo.ox.ac.uk), Department of Biochemistry (Zoology), University of Oxford. I am on the [Interdisciplinary Bioscience DTP](https://www.biodtp.ox.ac.uk) programme (2018-22) funded by the UKRI BBSRC.
 
-I am funded by the UKRI BBSRC and by [Zegami](https://zegami.com/), an Oxford University spin out company for data visualisation and pattern recognition using artificial intelligence. 
-
-Previously, I studied Physics at the University of Cambridge where I obtained a MSci and a BA.
-
-I am an avid runner and I love participating in running events and running outdoors. 
+Previously, I studied Biological Sciences at Somerville College, University of Oxford (2015-18), and obtained a BA (Hons).
 
 Research Interests
 ======
-My research interests lie in the application of machine learning algorithms on answering complex biological questions related to small and sparse biological datasets.
+I am interested in the multispecies microbial community that forms the gut microbiota and how it can protect us against pathogens. My experimental work focuses on two key questions. First, the ecology of the gut microbiota: how do commensal species interact with invading pathogens and can probiotic communities be engineered to inhibit them? Second, how do these probiotic communities and pathogens evolve over time? I use *Salmonella enterica* serovar Typhimurium and *Klebsiella pneumoniae* as model pathogens in my research, and carry out experiments in vitro and in vivo.
 
-I study how gene expression in tissue can provide insights into post-transcriptional regulation. To do so, I use machine learning to uncover patterns in a combination of data including, mRNA and protein expression data, gene features and pathway information.
-
-News
+Contact
 ======
-I was a winner of the competition "What is the biggest challenge or greatest opportunity for AI in the future?". I presented my idea on the AI@Oxford conference in September 2019.
-
-I was selected to attend MLSS 2019 (Machine Learning Summer School) where I presented a poster on my work.
+frances.spragge@magd.ox.ac.uk
+[Doctoral Training Centre](http://www.dtc.ox.ac.uk)
