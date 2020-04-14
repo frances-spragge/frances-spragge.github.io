@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Maria Kiourlappou"
+title                    : "Frances Spragge"
 title_separator          : "-"
-name                     : &name "Maria Kiourlappou"
-description              : &description "DPhil student"
-url                      : https://mkiourlappou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Frances Spragge"
+description              : &description " DPhil student at the University of Oxford"
+url                      : https://frances-spragge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mkiourlappou/mkiourlappou.github.io"
+repository               : "frances-spragge/frances-spragge.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -72,18 +72,18 @@ social:
 
 
 # Analytics
-analytics:
-  provider               : "google-universal" # "google-gtag" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-155149996-1"
-    anonymize_ip         : # true, false (default)
+#analytics:
+#  provider               : "google-universal" # "google-gtag" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          : 
+#    anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Maria Kiourlappou"
+  name             : "Frances Spragge"
   avatar           : "avatar.jpg"
-  bio              : "DPhil student at the University of Oxford. From Cyprus."
+  bio              : "DPhil student at Magdalen College, University of Oxford"
   location         : "Oxford"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -97,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mkiourlappou"
+  github           : "frances-spragge"
   google_plus      :
   keybase          :
-  instagram        : "maria9.kiou/"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "maria-kiourlappou-b64729124/"
+  linkedin         : 
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kiourlappou"
+  twitter          : "francesspragge1"
   vine             :
   weibo            :
   xing             :
