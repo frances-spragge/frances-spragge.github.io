@@ -15,13 +15,14 @@ Previously, I studied Biological Sciences at Somerville College, University of O
 Research interests
 ======
 
-I am interested in the multispecies microbial community that forms the gut microbiota and how it can protect us against pathogens. My experimental work focuses on two key questions:
+* For my DPhil in the [Foster Lab](https://zoo-kfoster.zoo.ox.ac.uk) I am investigating the interactions between species of commensal and pathogenic gut bacteria and how they evolve over time. I use *Salmonella enterica* serovar Typhimurium and *Klebsiella pneumoniae* as model pathogens and carry out work in vitro and in vivo.
 
-1. The ecology of the gut microbiota: how do commensal species interact with invading pathogens and can probiotic communities be engineered to inhibit them? 
+* Project rotation in the Foster Lab (Department of Biochemistry/Zoology) studying competition and cooperation between species of commensal gut bacteria. (April to July 2019)
 
-2. How do these probiotic communities and pathogens evolve over time? 
+* Project rotation in the Griffin Lab (Department of Zoology) researching beta-lactamase secretion by *Pseudomonas aeruginosa*. (January to April 2019)
 
-I use *Salmonella enterica* serovar Typhimurium and *Klebsiella pneumoniae* as model pathogens in my research, and carry out experiments in vitro and in vivo.
+* Undergraduate research project (Department of Plant Sciences) on whether foreign pollen can inhibit pollen tube formation and reduce seed set. Involved growing and pollinating lilies, preparing and staining pistils, fluorescence microscopy and image analysis. Statistical analysis of data in R Studio.
+
 
 Contact
 ======
