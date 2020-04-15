@@ -15,9 +15,9 @@ Previously, I studied Biological Sciences at Somerville College, University of O
 Research interests
 ======
 
-* For my DPhil in the [Foster Lab](https://zoo-kfoster.zoo.ox.ac.uk) I am investigating the interactions between species of commensal and pathogenic gut bacteria and how they evolve over time. I use *Salmonella enterica* serovar Typhimurium and *Klebsiella pneumoniae* as model pathogens and carry out work in vitro and in vivo.
+* For my DPhil I am investigating the interactions between species of commensal and pathogenic gut bacteria and how they evolve over time. I use *Salmonella enterica* serovar Typhimurium and *Klebsiella pneumoniae* as model pathogens and carry out work in vitro and in vivo.
 
-* Project rotation in the Foster Lab (Department of Biochemistry/Zoology) studying competition and cooperation between species of commensal gut bacteria. (April to July 2019)
+* Project rotation in the Foster Lab studying competition and cooperation between species of commensal gut bacteria. (April to July 2019)
 
 * Project rotation in the Griffin Lab (Department of Zoology) researching beta-lactamase secretion by *Pseudomonas aeruginosa*. (January to April 2019)
 
