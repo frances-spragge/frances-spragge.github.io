@@ -12,7 +12,7 @@ I am a DPhil student in the [Foster Lab](https://zoo-kfoster.zoo.ox.ac.uk), Depa
 
 Previously, I studied Biological Sciences at Somerville College, University of Oxford (2015-18), and obtained a BA (Hons).
 
-Research interests
+Research
 ======
 
 * For my DPhil I am investigating the interactions between species of commensal and pathogenic gut bacteria and how they evolve over time. I use *Salmonella enterica* serovar Typhimurium and *Klebsiella pneumoniae* as model pathogens and carry out work in vitro and in vivo.
